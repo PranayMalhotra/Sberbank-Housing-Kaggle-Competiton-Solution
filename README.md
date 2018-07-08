@@ -8,10 +8,10 @@ The data needed for this project can't be uploaded here due to its large size.
 Please visit the [competition kaggle page](https://www.kaggle.com/c/sberbank-russian-housing-market/data) to download the data files.
 
 The datafiles contain:
-train.csv - the training file
-test.csv - the test data (does not contain the value to be predicted.)
-macro.csv - the macroeconomic data
-data_dictionary.txt - a file explaining the different features in the dataset.
+1. train.csv - the training file
+2. test.csv - the test data (does not contain the value to be predicted.)
+3. macro.csv - the macroeconomic data
+4. data_dictionary.txt - a file explaining the different features in the dataset.
 
 # Requirements
 
